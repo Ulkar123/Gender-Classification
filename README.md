@@ -1,1 +1,1 @@
-# Gender-Classification
+# Company X gained too much popularity around the city people. Company starts to produce new products and make contracts with new investors. Increase of this popularity around people makes the company have some problems. They can not know everything easily depending on the increased number of customers. So the company wants to use new technology. Company wants to easily predict customers gender.
